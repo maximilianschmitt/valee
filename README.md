@@ -45,7 +45,7 @@ var errors = validate({
 console.log(errors);
 ```
 
-### Output
+Output:
 
 ```
 {
