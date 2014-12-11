@@ -1,6 +1,6 @@
 # valee
 
-![Travis Build](http://img.shields.io/travis/maximilianschmitt/valee.svg?style=flat)
+[![Travis Build](http://img.shields.io/travis/maximilianschmitt/valee.svg?style=flat)](https://travis-ci.org/maximilianschmitt/valee)
 
 > A validator for (nested) objects with a simple API.
 
