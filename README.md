@@ -63,7 +63,7 @@ All validators of valee currently map to the [validators of validator.js](https:
 
 * [x] Validation chaining
 * [x] Nested objects
-* [ ] Sanitizers
+* [x] Sanitizers ([sanee](https://github.com/maximilianschmitt/sanee))
 * [ ] Custom validators
 * [ ] Automatic error messages
 * [ ] Custom error messages
