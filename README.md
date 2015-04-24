@@ -1,6 +1,6 @@
 # valee
 
-[![Travis Build](http://img.shields.io/travis/maximilianschmitt/valee.svg?style=flat)](https://travis-ci.org/maximilianschmitt/valee)
+[![Travis Build](http://img.shields.io/travis/maximilianschmitt/valee.svg?style=flat)](https://travis-ci.org/maximilianschmitt/valee) [![Coverage Status](https://coveralls.io/repos/maximilianschmitt/valee/badge.svg?branch=master)](https://coveralls.io/r/maximilianschmitt/valee?branch=master)
 
 > A validator for (nested) objects with a simple API. For sanitizing objects, check out [sanee](https://github.com/maximilianschmitt/sanee).
 
